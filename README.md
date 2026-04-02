@@ -1,110 +1,99 @@
-# 🔐 Login Dashboard M2
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=500&color=A67C52&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+Web+Gerabah+2.0+🏺;Kerajinan+Tanah+Liat+Modern;Preserving+Tradition+Through+Code" alt="Typing Animation" />
+  
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Web%20Gerabah%202.0&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Digitalisasi%20Kerajinan%20Gerabah%20Indonesia&descAlignY=55" width="100%" />
+  
+</div>
 
-![Login Demo](demo.gif)
-> Aplikasi Login Dashboard dengan React.js + Node.js
+## 🌟 About This Project
 
-Dibuat Oleh: **Erlangga Satria P**  
-🏫 XI RPL A | SMKN 1 JENANGAN PONOROGO  
-📅 2026
+**Web Gerabah 2.0** adalah platform digital yang mempromosikan dan melestarikan kerajinan **gerabah tradisional Indonesia**. Website ini menggabungkan keindahan seni tradisional dengan teknologi modern untuk memberikan pengalaman berbelanja dan belajar yang interaktif.
 
----
-
-## ✨ Fitur Aplikasi
-
-- ✅ **Login System** - Autentikasi user dengan bcrypt
-- ✅ **Dashboard** - Halaman utama setelah login
-- ✅ **Responsive Design** - Bisa dibuka di HP & Desktop
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-| Frontend | Backend | Tools |
-|----------|---------|-------|
-| React.js | Node.js | Git |
-| CSS | Express | VS Code |
-| Axios | bcrypt | npm |
+<div align="center">
+  
+  <!-- Feature Badges with Animations -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive-Design-2EA44F?style=for-the-badge" />
+  
+</div>
 
 ---
 
-## 🚀 Cara Menjalankan Project
+## ✨ Features
 
-### 1. Clone repository
-```bash
-git clone https://github.com/Jovaagracex/Login-m2.git
-cd Login-m2
+| Feature | Description |
+|---------|-------------|
+| 🏺 **Product Catalog** | Koleksi lengkap gerabah dari berbagai daerah |
+| 🎨 **Interactive Gallery** | Galeri interaktif dengan efek hover yang memukau |
+| 📱 **Responsive Design** | Tampilan optimal di desktop, tablet, dan mobile |
+| 🛒 **Shopping Cart** | Sistem keranjang belanja yang mudah digunakan |
+| 💬 **Customer Reviews** | Review dan rating dari pelanggan |
+| 🔍 **Search & Filter** | Cari produk berdasarkan kategori dan harga |
 
-# Getting Started with Create React App
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🎯 Preview
 
-## Available Scripts
+<div align="center">
+  
+  <!-- Animated Preview Placeholder -->
+  <img src="https://placehold.co/800x400/A67C52/white?text=Web+Gerabah+2.0+Preview" alt="Preview Placeholder" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+  
+  <!-- Animated Visitor Counter -->
+  <img src="https://visit-counter.vercel.app/counter.png?page=Jovaagracex%2Fweb-gerabah-2.0&s=50&c=A67C52&bg=FFFFFF&no=2&ff=poppins&tb=👥+Total+Visitors%3A++&ta=" alt="Visitor Counter" />
+  
+</div>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> **Live Demo:** [Web Gerabah 2.0](https://Jovaagracex.github.io/web-gerabah-2.0)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div align="center">
+  
+  <!-- Animated Button -->
+  <a href="https://Jovaagracex.github.io/web-gerabah-2.0">
+    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=FF6B6B&link=https://Jovaagracex.github.io/web-gerabah-2.0" alt="Live Demo" />
+  </a>
+  
+</div>
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📸 Screenshots
 
-### `npm run build`
+<div align="center">
+  
+| Homepage | Product Gallery | Detail Page |
+|----------|-----------------|-------------|
+| <img src="https://placehold.co/300x200/A67C52/white?text=Homepage" width="250" /> | <img src="https://placehold.co/300x200/A67C52/white?text=Gallery" width="250" /> | <img src="https://placehold.co/300x200/A67C52/white?text=Detail" width="250" /> |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Technologies Used
 
-### `npm run eject`
+<div align="center">
+  
+  <!-- Tech Stack with Animations -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+| Technology | Purpose |
+|------------|---------|
+| **HTML5** | Struktur dan semantic markup |
+| **CSS3** | Styling, animasi, dan responsive design |
+| **JavaScript** | Interaktivitas dan dynamic content |
+| **Git & GitHub** | Version control dan hosting |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📁 Project Structure
