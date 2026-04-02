@@ -101,3 +101,13 @@
 ---
 
 ## 📁 Project Structure
+web-gerabah-2.0/
+├── 📄 index.html # Halaman utama
+├── 🎨 style.css # Styling dan Anti Gravity animations
+├── ⚡ script.js # JavaScript + Anti Gravity logic
+├── 📁 assets/ # Images, fonts, etc.
+│ ├── 📁 images/ # Gambar produk
+│ ├── 📁 icons/ # Icon dan logo
+│ └── 📁 animations/ # Anti Gravity animation assets
+├── 📁 lib/ # Libraries termasuk Anti Gravity
+└── 📄 README.md # Documentation
