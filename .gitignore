@@ -1,0 +1,62 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/backend/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/backend/.env
+*.env
+
+# backend uploads
+/backend/uploads
+uploads/
+
+# backend logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/backend/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# backend specific
+/backend/node_modules/
+/backend/package-lock.json
+/backend/yarn.lock
+
+# testing files (optional)
+/backend/create-test-user.js
+/backend/hash-password.js
+/backend/test-*.js
+
+# environment files
+.env
+.env.production
+.env.development
+.vercel

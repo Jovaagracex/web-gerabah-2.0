@@ -1,0 +1,87 @@
+/* Filter & Search */
+.filter-container {
+  margin: 2rem 0;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid #DEB887;
+  border-radius: 8px;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+}
+
+.search-box input:focus {
+  outline: none;
+  border-color: #8B4513;
+}
+
+.category-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.category-filter button {
+  padding: 0.5rem 1rem;
+  background: #FFF8DC;
+  border: 1px solid #DEB887;
+  border-radius: 20px;
+  cursor: pointer;
+  color: #8B4513;
+  transition: all 0.3s;
+}
+
+.category-filter button:hover {
+  background: #DEB887;
+}
+
+.category-filter button.active {
+  background: #8B4513;
+  color: white;
+  border-color: #8B4513;
+}
+
+.result-info {
+  color: #5D3A1A;
+  margin: 1rem 0;
+  font-style: italic;
+}
+
+.no-results {
+  text-align: center;
+  padding: 3rem;
+  background: #FFF8DC;
+  border-radius: 8px;
+  color: #8B4513;
+  font-size: 1.2rem;
+}
+
+/* Update stat cards */
+.stats-container {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.stat-card {
+  background: linear-gradient(135deg, #D2691E, #8B4513);
+}
+
+.role-badge {
+  background: #8B4513;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  margin-left: 1rem;
+  font-size: 0.9rem;
+}
+
+.role-admin {
+  background: #8B4513;
+}
+
+.role-kasir {
+  background: #D2691E;
+}
