@@ -1,9 +1,6 @@
 <div align="center">
-  
-  <!-- Typing Animation Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=500&color=A67C52&center=true&vCenter=true&random=false&width=600&height=70&lines=Web+Gerabah+2.0+🏺;Anti+Gravity+Experience;Digitalisasi+Kerajinan+Gerabah" alt="Typing Animation" />
-  
-  <!-- Animated Banner -->
+
+    <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Web%20Gerabah%202.0&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Powered%20by%20Node.js%20%7C%20Anti%20Gravity%20Effects&descAlignY=55" width="100%" />
   
 </div>
