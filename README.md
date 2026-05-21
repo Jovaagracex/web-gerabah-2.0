@@ -1,6 +1,6 @@
 <div align="center">
 
-    <!-- Animated Banner -->
+    
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Web%20Gerabah%202.0&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Powered%20by%20Node.js%20%7C%20Anti%20Gravity%20Effects&descAlignY=55" width="100%" />
   
 </div>
